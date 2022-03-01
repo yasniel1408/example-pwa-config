@@ -1,0 +1,38 @@
+{
+  "short_name": "Lexawise",
+  "name": "Lexawise - 🎓",
+  "description": "Learn without limits with Lexawise",
+  "icons": [
+    {
+       "src": "./maskable_icon_x96.png",
+       "sizes": "96x96",
+       "type": "image/png",
+       "purpose": "any maskable"
+    },
+    {
+      "src": "./maskable_icon_x128.png",
+      "type": "image/png",
+      "sizes": "128x128",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./maskable_icon_x192.png",
+      "type": "image/png",
+      "sizes": "192x92",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./maskable_icon_x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#9647CE",
+  "background_color": "#ffffff",
+  "related_applications": [],
+  "prefer_related_applications": false
+}
